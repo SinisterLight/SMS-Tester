@@ -1,0 +1,33 @@
+<%= form_for(@post) do |f| %>
+  <% if @post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% @post.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :mobileNumber %><br />
+    <%= f.text_field :mobileNumber %>
+  </div>
+  <div class="field">
+    <%= f.label :smsTimeStamp %><br />
+    <%= f.text_field :smsTimeStamp %>
+  </div>
+  <div class="field">
+    <%= f.label :smsText %><br />
+    <%= f.text_field :smsText %>
+  </div>
+  <div class="field">
+    <%= f.label :simNumber %><br />
+    <%= f.text_field :simNumber %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

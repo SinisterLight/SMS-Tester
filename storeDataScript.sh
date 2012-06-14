@@ -1,0 +1,8 @@
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C20%3A35%3A05%2B22\&smsText=blah\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919716810944\&smsTimeStamp=12/05/30%2C20%3A36%3A34%2B22\&smsText=Kutte%20kanjar%20shobhit\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C21%3A31%3A49%2B22\&smsText=\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C21%3A49%3A14%2B22\&smsText=%82%40o%28%20%20%40qwertyuiopasdfghjklzxcvbn\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C21%3A49%3A17%2B22\&smsText=%82%40o%28%20%AD%40lzxcvbn\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C21%3A51%3A56%2B22\&smsText=%82%40o8%20%20%40qwertyuiopassdqwertyuiqwertyuoipasdfghjkakqwertypasdjklwtopasdkqwerpruiopeiopfgqtyuighwertyuioaghjkwuiopwerdfghjqwyuiasdfghjrtyuiqwuiqwasdfghjkwertyuioqw\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30%2C21%3A51%3A58%2B22\&smsText=%82%40o8%20%AD%40ertyuiqwrtyuwqeyqweriqwuowuiruiopwruqwyuwrtyuiowuiosklrtyualjk\&simNumber=89916027600040177963
+wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/31%2C12%3A23%3A23%2B22\&smsText=1234\&simNumber=89916027600040177963
