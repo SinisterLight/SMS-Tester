@@ -1,8 +1,0 @@
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+20:35:05+22\&smsText=blah
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919716810944\&smsTimeStamp=12/05/30+20:36:34+22\&smsText=Kutte+kanjar+shobhit
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+21:31:49+22\&smsText=
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+21:49:14+22\&smsText=‚@o(++@qwertyuiopasdfghjklzxcvbn
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+21:49:17+22\&smsText=‚@o(+­@lzxcvbn
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+21:51:56+22\&smsText=‚@o8++@qwertyuiopassdqwertyuiqwertyuoipasdfghjkakqwertypasdjklwtopasdkqwerpruiopeiopfgqtyuighwertyuioaghjkwuiopwerdfghjqwyuiasdfghjrtyuiqwuiqwasdfghjkwertyuioqw
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/30+21:51:58+22\&smsText=‚@o8+­@ertyuiqwrtyuwqeyqweriqwuowuiruiopwruqwyuwrtyuiowuiosklrtyualjk
-wget --spider http://localhost:3000/store/?mobileNumber=%2B919935016288\&smsTimeStamp=12/05/31+12:23:23+22\&smsText=1234
